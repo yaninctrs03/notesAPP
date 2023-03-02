@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in ProfileViewModel.init():ProfileViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "user.imageData.description">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NoteDetailView.ViewModel.init():NoteDetailViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "userId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NoteService.delete(_:success:):NoteService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "context.fetch(request)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in closure #1 in closure #1 in closure #1 in LoginView.body.getter:LoginView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewModel.areFieldsValid()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NoteService.getAll(success:):NoteService.swift">
+      </ContextState>
+      <ContextState
+         contextName = "LoginView.ViewModel.areFieldsValid():LoginViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "password.isEmpty">
+            </PersistentString>
+            <PersistentString
+               value = "email.isValidEmail &amp;&amp; !password.isEmpty">
+            </PersistentString>
+            <PersistentString
+               value = "email.isValidEmail">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in SceneManager.body.getter:SceneManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "authentication.isLoggedIn">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in MainViewModel.getNotes():MainViewModel.swift">
+      </ContextState>
+      <ContextState
+         contextName = "NoteDetailView.ViewModel.setLocation():NoteDetailViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "locationService.location">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #3 in closure #1 in MainView.body.getter:MainView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "actionService.action">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainView.performActionIfNeeded():MainView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "actionService.action">
+            </PersistentString>
+            <PersistentString
+               value = "action">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainViewModel.deleteNote(note:):MainViewModel.swift">
+      </ContextState>
+      <ContextState
+         contextName = "LoginView.ViewModel.makeLogin():LoginViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "success">
+            </PersistentString>
+            <PersistentString
+               value = "error">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UserService.checkForExisting(email:success:):UserService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "context.fetch(request)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NoteDetailView.ViewModel.saveNote():NoteDetailViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "note">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in closure #2 in closure #1 in ProfileView.body.getter:ProfileView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewModel.isEditable">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NoteDetailView.ViewModel.updateNote():NoteDetailViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "note">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ProfileViewModel.saveUserImage(_:):ProfileViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "profileImage.imageData.description">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #2 in closure #1 in closure #2 in closure #1 in ProfileView.body.getter:ProfileView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "viewModel.isEditable">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainViewModel.getNotes():MainViewModel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "authentication?.userId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
